@@ -43,6 +43,31 @@
 # https://docs.nvidia.com/deeplearning/sdk/
 
 ###############################################################################
+# NVIDIA cuDNN:
+#
+# Installation:
+#
+# Support Matrix: Platform and software version compatibility
+#     https://docs.nvidia.com/deeplearning/sdk/cudnn-support-matrix/index.html?ncid=em-prod-337416
+# Installation Guide: Step-by-step instructions for installation and upgrade
+#     https://docs.nvidia.com/deeplearning/sdk/cudnn-install/index.html?ncid=em-prod-337416
+#
+# Documentation:
+#
+# Developer Guide: Overview of programming model, features and formats supported
+#     https://docs.nvidia.com/deeplearning/sdk/cudnn-developer-guide/index.html?ncid=em-prod-337416
+# cuDNN API: Reference for cuDNN datatypes and APIs
+#     https://docs.nvidia.com/deeplearning/sdk/cudnn-api/index.html?ncid=em-prod-337416
+#
+# Community:
+#
+# Developer Forum: Browse introductory “how-to” questions or discuss advanced tips-and-tricks for your application with the community
+#     https://forums.developer.nvidia.com/c/ai-deep-learning/libraries-sdk/cudnn/90?ncid=em-prod-337416
+# Bug Reporting: Help improve cuDNN by reporting bugs and filing enhancement requests for the cuDNN team
+#     https://developer.nvidia.com/nvidia_bug/add?ncid=em-prod-337416
+###############################################################################
+
+###############################################################################
 # Load packages
 
 import tensorflow_datasets as tfds
